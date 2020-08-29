@@ -17,7 +17,7 @@ npm install -g expo-cli
 npm install
 ```
 
-## Para instalar a aplicação (expo)
+## Para executar a aplicação (expo)
 
 ```bash
 npm start
